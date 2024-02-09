@@ -30,15 +30,6 @@
         <activity
             android:name=".Screens.Screens.MainActivity"
             android:exported="false" />
-        <activity
-            android:name=".Screens.Screens.SplashScreen"
-            android:exported="true">
-            <intent-filter>
-                <action android:name="android.intent.action.MAIN" />
-
-                <category android:name="android.intent.category.LAUNCHER" />
-            </intent-filter>
-        </activity>
     </application>
 
 </manifest>
